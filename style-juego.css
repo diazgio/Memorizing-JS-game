@@ -1,3 +1,8 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
 body {
     margin: 0;
     background: #dedede;
@@ -5,6 +10,41 @@ body {
     align-items: center;
     height: 100vh;
   }
+
+  .containerGame{
+    display: flex;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.containerLvl{
+    display: flex;
+    margin-bottom: 35px;
+    height: 35px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.title{
+    display: grid;
+    text-align: center;
+    font-size: 18px;
+    color: #483d8b;
+}
+
+.txtlvl{
+    height: 35px;
+    text-align: center;
+    font-size: 25px;
+
+}
 
   .gameboard {
     height: 100vh;
@@ -15,6 +55,8 @@ body {
     max-height: 60vh;
     max-width: 60vh;
   }
+
+  
 
   .color {
     width: 50%;
