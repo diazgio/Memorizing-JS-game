@@ -1,0 +1,23 @@
+{
+  "name": "juego",
+  "version": "1.0.0",
+  "description": "> Video game fully encoded in JS, as part of the PLATZI JavaScript Fundamentals Project.",
+  "main": "juego.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazgio/JuegoJs.git"
+  },
+  "author": "Giordano Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diazgio/JuegoJs/issues"
+  },
+  "homepage": "https://github.com/diazgio/JuegoJs#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
