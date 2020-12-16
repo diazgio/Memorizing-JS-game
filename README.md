@@ -1,4 +1,4 @@
-#  🧐 Old Apple page-project
+#  🧐 Memorize game
 
 > Video game fully encoded in JS, as part of the PLATZI JavaScript Fundamentals Project.
 
@@ -28,7 +28,7 @@
 
 ## 🔴 Live Demo
 
-[Live Demo Link](https://diazgio.github.io/JuegoJs/)
+[Live Demo Link](https://diazgio.github.io/Memorizing-JS-game/)
 
 
 ## 🛠 Getting Started
